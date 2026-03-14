@@ -127,4 +127,4 @@ Teste online sem instalação em [db-fiddle.com](https://www.db-fiddle.com).
 **Milene Caldeira** — BI Analyst com foco em dados comerciais, SQL, Power BI e cloud.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MileneCaldeira-black?style=flat-square&logo=github)](https://github.com/MileneCaldeira)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/milenecaldeira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/milene-caldeira/)
